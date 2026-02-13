@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Deshan
 
-<!--
-**deshanekanayaka/deshanekanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂 22 years old  
+🎓 Computer Science Undergrad @uniwestminster  
+📍 Based in London, UK
 
-Here are some ideas to get you started:
+💻 I use daily:
+React • TypeScript • TailwindCSS • Python • SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently:
+Building a diabetic patient priority system for my final year project
+
+🎸 Beyond code:
+Yoga • Fingerstyle Guitar • Fantasy Novels (still waiting for my Hogwarts letter)
+
+📫 Reach out:
+[LinkedIn](https://linkedin.com/in/tharidu-ekanayaka-3b43a9292) | deshanekanayake2003@gmail.com
