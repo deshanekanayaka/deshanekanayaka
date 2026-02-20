@@ -14,4 +14,4 @@ Building a diabetic patient priority system for my final year project
 Yoga • Fingerstyle Guitar • Fantasy Novels (still waiting for my Hogwarts letter)
 
 📫 Reach out:
-[LinkedIn](https://linkedin.com/in/tharidu-ekanayaka-3b43a9292) | deshanekanayake2003@gmail.com
+[LinkedIn](https://www.linkedin.com/in/thariduekanayaka/) | deshanekanayake2003@gmail.com
