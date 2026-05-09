@@ -8,7 +8,7 @@
 React • TypeScript • TailwindCSS • Python • SQL
 
 🌱 I'm currently:
-Building a diabetic patient priority system for my final year project
+Building Yurjinia
 
 🎸 Beyond code:
 Yoga • Fingerstyle Guitar • Fantasy Novels (still waiting for my Hogwarts letter)
