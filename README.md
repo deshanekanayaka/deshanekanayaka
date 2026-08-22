@@ -15,4 +15,4 @@
 
 🎸 **Beyond code:** Yoga · Fingerstyle Guitar · Fantasy Novels (still waiting for my Hogwarts letter)
 
-📫 **Reach out:** [Portfolio](https://tharidu.dev/) | [LinkedIn](https://www.linkedin.com/in/thariduekanayaka/) | [deshanekanayake2003@gmail.com](mailto:deshan.ekan@gmail.com)
+📫 **Reach out:** [Portfolio](https://tharidu.dev/) | [LinkedIn](https://www.linkedin.com/in/thariduekanayaka/) | [deshan.ekan@gmail.com](mailto:deshan.ekan@gmail.com)
