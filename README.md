@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Deshan
 
-🎓 Computer Science Graduate, First Class Honours @uniwestminster
-📍 Based in London, UK
+🎓 **Computer Science Graduate, First Class Honours** @ University of Westminster
+📍 London, UK
 
-🚀 **Currently:** Backend AI Engineering Intern @ FlyRank — building RAG pipelines, structured-output systems, and agent workflows with FastAPI, Anthropic/OpenAI models, Supabase, and Zod
+🚀 **Currently:** Backend AI Engineering Intern @ FlyRank, building RAG pipelines, structured-output systems, and agent workflows with FastAPI, Anthropic/OpenAI models, Supabase, and Zod.
 
-🏗️ **Recent work:**
-- Building [Retell](https://github.com/deshanekanayaka/retell) — a five minute daily voice session that drills your own interview stories against real question variants, so answering well becomes a habit instead of a cram
-- [Diacify](https://github.com/deshanekanayaka/diacify) — rebuilt a clinical decision support system from scratch after examiner feedback; Random Forest accuracy improved from 89% to 94% across a 662-patient dataset
-- [Multi-Modal Claim Verification Agent](https://github.com/deshanekanayaka/hackerrank-orchestrate-june26) — ranked #234 of 1,773 at HackerRank Orchestrate (June 2026); deterministic gates handle safety-critical routing, the LLM handles the rest
+🏗️ **Recent Work**
 
-💻 **I use daily:** React · TypeScript · Python · FastAPI · TailwindCSS · SQL
+* **[Fynd](https://github.com/deshanekanayaka/fynd)** — Building an evidence-first project finder for final-year students. It narrows a domain to a real problem, backs every claim with a cited paper, statistic, or existing product, and drafts the proposal students take to a supervisor.
+* **[Diacify](https://github.com/deshanekanayaka/diacify)** — Rebuilt a clinical decision support system from scratch after examiner feedback, improving Random Forest accuracy from 89% to 94% across a 662-patient dataset.
+* **[Multi-Modal Claim Verification Agent](https://github.com/deshanekanayaka/hackerrank-orchestrate-june26)** — Ranked **#234 out of 1,773** at HackerRank Orchestrate (June 2026). Deterministic gates handle safety-critical routing, while the LLM handles the rest.
 
-🧭 **How I work:** I write tests. I document APIs. I ask why before I ask how.
+💻 **Tech I Use Daily:** React · TypeScript · Python · FastAPI · Tailwind CSS · SQL
 
-🎸 **Beyond code:** Yoga · Fingerstyle Guitar · Fantasy Novels (still waiting for my Hogwarts letter)
+🧭 **How I Work:** I write tests. I document APIs. I ask why before I ask how.
 
-📫 **Reach out:** [Portfolio](https://tharidu.dev/) | [LinkedIn](https://www.linkedin.com/in/thariduekanayaka/) | [deshan.ekan@gmail.com](mailto:deshan.ekan@gmail.com)
+🎸 **Beyond Code:** Yoga · Fingerstyle Guitar · Fantasy Novels (still waiting for my Hogwarts letter).
+
+📫 **Reach Out:** [Portfolio](https://tharidu.dev/) · [LinkedIn](https://www.linkedin.com/in/thariduekanayaka/) · [Email](mailto:deshan.ekan@gmail.com)
